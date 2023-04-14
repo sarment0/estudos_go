@@ -1,0 +1,12 @@
+{
+  "nome": "Fabio",
+  "idade": 37,
+  "cursos": [
+    {
+      "nome": "Engenharia"
+    },
+    {
+      "nome": "TI"
+    }
+  ]
+}
